@@ -238,7 +238,7 @@ Artık fonksiyonlarımızı çağırabilir ve Web Scraper’ımıza parametreler
     end = time.time() #Zaman sayacını bitiriyoruz.
     print(f"\nExecution time: {end - start}") #Kodun çalışma süresini hesaplıyoruz.
 ```
-Kodun tam versiyonuna ulaşmak için → [python-linkedin-webscraper.py](https://github.com/onderfatihkoca/python-linkedin-webscraper)
+Kodun tam versiyonuna ulaşmak için → [python-linkedin-webscraper.py](https://github.com/onderfatihkoca/python-linkedin-webscraper/blob/main/linkedin.py)
 
 *Buraya kadar okuduğunuz için teşekkürler, bu benim ilk projelerimden birisiydi eğer eksik veya yanlış olduğunu düşündüğünüz bir kısım varsa geri dönüşlerinizi beklerim.*
 
