@@ -2,8 +2,6 @@
 
 ## Python ile Linkedin Webscraping Nasıl Yapılır?
 
-**Yazının İngilizce hali için** → https://medium.com/@denizbarankara3/how-to-webscrape-linkedin-with-python-ea04144946fc
-
 "Python ile Linkedin Webscraping Nasıl Yapılır?"
 Arkadaşımla küçük bir yan proje yapmaya başladığımızda bu sorunun cevabını arıyorduk. Fakat piyasada iyi bir açık kaynaklı Linkedin Webscraping projesi bulamadık.
 
