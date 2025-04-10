@@ -1,4 +1,4 @@
-from asyncio.windows_events import NULL
+from asyncio.windows_events import None
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
